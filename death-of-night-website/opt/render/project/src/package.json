@@ -1,8 +1,0 @@
-{
-  "name": "DeathOfNightAnniversaryWebsite",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
-  }
-}
